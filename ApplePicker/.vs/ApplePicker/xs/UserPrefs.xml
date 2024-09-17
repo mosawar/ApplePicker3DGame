@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{038AC0DE-28CA-E37D-8031-5621BA3E8786}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Basket.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AppleTree.cs" Line="45" Column="1" />
+      <File FileName="Assets/Scripts/Apple.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/ApplePicker.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/Basket.cs" Line="16" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApplePicker" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Basket.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="521d0e27-37b6-4e72-a401-455f9ff14fd2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
