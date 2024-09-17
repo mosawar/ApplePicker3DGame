@@ -13,6 +13,12 @@ public class Apple : MonoBehaviour
         {
             //deletes the apple that are below the -20f y to keep it from having too many apples
             Destroy(this.gameObject);
+
+            // get a reference to the applepicker component of main camera
+            ApplePicker apScript = Camera.main.GetComponent<ApplePicker>();
+
+            // call the public applemissed() method of apScript
+            apScript.AppleMissed();
         }
     }
 }
