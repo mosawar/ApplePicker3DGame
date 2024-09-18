@@ -291,6 +291,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2117359324477312150, guid: 3189cd6b08b5f4474b92521146ea0735, type: 3}
+      propertyPath: goldenApplePrefab
+      value: 
+      objectReference: {fileID: 1029127585471788371, guid: 5250a45c790a7445ebeb5cefd15f93f9, type: 3}
     - target: {fileID: 6153369060598725516, guid: 3189cd6b08b5f4474b92521146ea0735, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
