@@ -23,7 +23,7 @@ public class AppleTree : MonoBehaviour
     //seconds between apples instantiations
     public float appleDropDelay = 1f;
 
-    public float maxGoldenAppleDelay = 3f;
+    public float maxGoldenAppleDelay = 40f;
 
     void Start()
     {
@@ -45,7 +45,7 @@ public class AppleTree : MonoBehaviour
         GameObject goldenApple = Instantiate<GameObject>(goldenApplePrefab);
         goldenApple.transform.position = transform.position;
 
-        float randomDelay = Random.Range(1f, maxGoldenAppleDelay);
+        float randomDelay = Random.Range(10f, maxGoldenAppleDelay);
         Invoke("DropGoldenApple", randomDelay);
     }
 
